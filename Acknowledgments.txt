@@ -1,0 +1,5 @@
+Acknowledgments
+
+I would like to thank my Computer Vision professor for the guidance and knowledge provided throughout ITAI 1378, which made this project possible.
+
+I would also like to thank Ismail El Madafri for making The Wildfire Dataset publicly available on Kaggle. Without this dataset, training the fire detection model would not have been possible.
